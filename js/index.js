@@ -1,5 +1,5 @@
  // ID of the Google Spreadsheet
- var spreadsheetID = "154wC5v1r_wuz_sKXvY5RVI_TXRf46rUYryggNU6_j6s";
+ var spreadsheetID = "";
 
  // Make sure it is public or set to Anyone with link can view 
  var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
